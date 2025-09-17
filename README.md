@@ -7,6 +7,7 @@ Modo de Jogo:
   2. Use as teclas A,W,S,D para atacar (em suas respectivas direções)
 Objetivo: Eliminar a maior quantidade de robôs inimigos, para seu Score aumentar, o jogador vence se seu score for igual ou maior que 1000.
 
+EN:
 Simple Robot Attack Game
 Game Mode:
   1. Use the arrow keys to move the character.
